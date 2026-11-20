@@ -1,0 +1,128 @@
+Code,Item name,Category,Unit,Min stock
+PAP-001,A4 Paper Pkt,Paper,Packet,100
+PAP-002,A4 Ivory Pkt,Paper,Packet,10
+PAP-003,A3 Paper Pkt,Paper,Packet,10
+PAP-004,A4 Color Paper,Paper,paper,100
+WRI-001,Ballpoint Pen Blue,ti,Piece,500
+WRI-002,Ballpoint Pen Black & Red,Writing Instruments,Piece,200
+PWR-001,Battery AA,Power & Batteries,Piece,10
+PWR-002,Battery AAA,Power & Batteries,Piece,10
+PWR-003,Battery 9V,Power & Batteries,Piece,10
+PWR-004,CR Battery,Power & Batteries,Piece,5
+FIB-001,Binding Gum 100g,Filing & Binding,Piece,25
+FIB-002,"Binding Tape 2""",Filing & Binding,Roll,25
+OFE-001,Calculator (12 Digits),Office Equipment,Piece,5
+OFE-002,Calculator (Scientific),Office Equipment,Piece,5
+CLH-001,Candle,Cleaning & Housekeeping,Packet,10
+PAP-005,Carbon Paper (One Side),Paper,Packet,25
+PAP-006,Carbon Paper (Both Side),Paper,Packet,50
+OFA-001,"Cello Tape 1""",Office Accessories,Roll,20
+OFA-002,"Cello Tape 2""",Office Accessories,Roll,20
+OFA-003,"Cello Tape 2"" Brown",Office Accessories,Roll,10
+CMP-001,CD / DVD,Computer Accessories,Piece,25
+WRI-003,Color Pencil,Writing Instruments,Box,10
+PAP-007,"Computer Papers 5.5""x11""",Paper,Box,0
+PAP-008,"Computer Papers 9.5""x11""",Paper,Box,6
+PAP-009,"Computer Papers 15.5""x11""",Paper,Box,6
+PAP-010,Craft Papers,Paper,Packet,250
+BKE-001,CR Page 40,Books & Envelopes,Piece,25
+BKE-002,CR Page 80,Books & Envelopes,Piece,25
+BKE-003,CR Page 120,Books & Envelopes,Piece,25
+BKE-004,CR Page 160,Books & Envelopes,Piece,10
+BKE-005,CR Page 200,Books & Envelopes,Piece,5
+BKE-006,CR Page 240,Books & Envelopes,Piece,3
+BKE-007,CR Page 320,Books & Envelopes,Piece,3
+OFA-004,Double Tape,Office Accessories,Roll,10
+CLH-002,Duster Cloth,Cleaning & Housekeeping,Piece,100
+BKE-008,"Envelope 6""x4""",Books & Envelopes,Packet,250
+BKE-009,"Envelope 9""x4""",Books & Envelopes,Packet,250
+BKE-010,"Envelope 10""x7""",Books & Envelopes,Packet,250
+BKE-011,"Envelope 15""x10""",Books & Envelopes,Packet,100
+OFA-005,Eraser,Office Accessories,Piece,10
+PAP-011,Fax Roll,Paper,Roll,2
+FIB-003,File Clips,Filing & Binding,Box,20
+FIB-004,File Cover (Normal),Filing & Binding,Piece,150
+FIB-005,File Cover (4 Hole),Filing & Binding,Piece,50
+FIB-006,"File Cover (1 1/2"" Box)",Filing & Binding,Piece,10
+FIB-007,"File Cover (03"" Box)",Filing & Binding,Piece,10
+FIB-008,File Cover (Plastic),Filing & Binding,Piece,25
+FIB-009,File Tags,Filing & Binding,Packet,50
+PAP-012,Foolscap,Paper,Packet,10
+OFA-006,Glue 350ml,Office Accessories,Bottle,10
+OFA-007,Glue 750ml,Office Accessories,Bottle,5
+PAP-013,Half Sheet Pkt,Paper,Packet,5
+CLH-003,Hand Gloves (Pair),Cleaning & Housekeeping,Pair,25
+WRI-004,Highlighter,Writing Instruments,Piece,5
+OFA-008,Ink Pad,Office Accessories,Piece,5
+OFA-009,Ink Bottle (Pad Ink),Office Accessories,Bottle,5
+FIB-010,Jumbo Clip - Small,Filing & Binding,Box,10
+FIB-011,Jumbo Clip - Large,Filing & Binding,Box,10
+PAP-014,Legal Paper Pkt,Paper,Packet,2
+PAP-015,Letter Head,Paper,Packet,200
+FIB-012,"Magazine Holder 2""",Filing & Binding,Piece,5
+FIB-013,"Magazine Holder 6""",Filing & Binding,Piece,5
+BKE-012,Note Book,Books & Envelopes,Piece,10
+OFE-003,Paper Cutter,Office Equipment,Piece,5
+WRI-005,Pencil,Writing Instruments,Piece,5
+CMP-002,Pen Drive (USB Flash Drive),Computer Accessories,Piece,5
+WRI-006,Permanent Marker Pen,Writing Instruments,Piece,5
+WRI-007,Platinum Pen,Writing Instruments,Piece,5
+OFE-004,Puncher (1 Hole),Office Equipment,Piece,5
+OFE-005,Puncher (2 Hole),Office Equipment,Piece,5
+FIB-014,Red Tape,Filing & Binding,Roll,5
+OFA-010,Rubber Band,Office Accessories,Packet,2
+OFA-011,"Ruler 12""",Office Accessories,Piece,5
+OFA-012,Scissor,Office Accessories,Piece,5
+WRI-008,Sign Pen,Writing Instruments,Piece,5
+OFE-006,Stapler Machine,Office Equipment,Piece,5
+OFA-013,Stapler Pin 369,Office Accessories,Box,25
+OFA-014,"Stick Note 3""x3""",Office Accessories,Pad,10
+OFA-015,Stick Note (5 Color),Office Accessories,Pad,10
+OFA-016,Tipex,Office Accessories,Piece,5
+LAB-001,Tissue Box (For Only Labs),Laboratory Supplies,Box,5
+FIB-015,Twine,Filing & Binding,Roll,10
+WRI-009,White Board Marker Pen,Writing Instruments,Piece,5
+PWR-005,Wire Code,Power & Batteries,Piece,3
+PAP-016,Transparent Sheet,Paper,Packet,10
+FIB-016,Binding Sheet,Filing & Binding,Packet,10
+CLH-004,Air Freshener,Cleaning & Housekeeping,Piece,5
+CLH-005,Car Wash,Cleaning & Housekeeping,Bottle,5
+CLH-006,Dustbin,Cleaning & Housekeeping,Piece,2
+CLH-007,Hand Wash,Cleaning & Housekeeping,liter ,50
+SEL-001,Sealing Wax,Sealing & Labelling,Stick,5
+CLH-008,Soap,Cleaning & Housekeeping,Piece,5
+CLH-009,Toilet Paper,Cleaning & Housekeeping,Roll,5
+CLH-010,Duster,Cleaning & Housekeeping,Piece,2
+SEL-002,Security Stickers,Sealing & Labelling,Packet,500
+LAB-002,Water Distillation Unit & Filter,Laboratory Supplies,Piece,2
+CLH-011,Bristol Cloth Duster,Cleaning & Housekeeping,Piece,5
+GEN-001,EPS / 42 / 08 Sewing,General & Other,Piece,50
+TON-001,Canon NPG-59 Toner,Printer Toners & Ribbons,Cartridge,5
+TON-002,Canon NPG-32 Toner,Printer Toners & Ribbons,Cartridge,5
+TON-003,Brother T.N. 261 BK Toner,Printer Toners & Ribbons,Cartridge,5
+TON-004,Canon 337 Black Toner,Printer Toners & Ribbons,Cartridge,5
+TON-005,Canon 052-H Toner,Printer Toners & Ribbons,Cartridge,5
+TON-006,Dell Laserjet Toner (DL-1160),Printer Toners & Ribbons,Cartridge,5
+TON-007,Epson LQ-1150 Ribbon,Printer Toners & Ribbons,Piece,5
+TON-008,HP Laser Jet Cartridge (P1102),Printer Toners & Ribbons,Cartridge,5
+TON-009,HP Laser Jet CC 30/532/533 (107A),Printer Toners & Ribbons,Cartridge,5
+TON-010,Sharp AR - 016T Toner,Printer Toners & Ribbons,Cartridge,5
+TON-011,Samsung M Toner 2020/2070 M15,Printer Toners & Ribbons,Cartridge,5
+TON-012,Samsung X press ( 111 S ),Printer Toners & Ribbons,Cartridge,5
+CMP-003,Mouse,Computer Accessories,Piece,5
+NET-001,TP-Link Wireless Dual Band USB,Networking,Piece,2
+NET-002,TP-Link Network Adapter,Networking,Piece,2
+NET-003,Network Adapter,Networking,Piece,2
+NET-004,Network Cable 5m,Networking,Piece,5
+NET-005,Network Cable 10m,Networking,Piece,5
+NET-006,Network Switch 05 Ports,Networking,Piece,3
+NET-007,Network Switch 10 Ports,Networking,Piece,3
+PWR-006,UPS,Power & Batteries,Piece,5
+PWR-007,UPS Battery,Power & Batteries,Piece,5
+CMP-004,Mouse pad,Computer Accessories,Piece,5
+TON-013,Canon 056 Black Toner (MF343 X),Printer Toners & Ribbons,Cartridge,5
+CMP-005,Laptop Battery,Computer Accessories,Piece,2
+CMP-006,Key Board,Computer Accessories,Piece,2
+TON-014,Canon 057 Toner,Printer Toners & Ribbons,Cartridge,5
+TON-015,Epson LQ 310 Ribbon,Printer Toners & Ribbons,Piece,2
+TON-016,Dell 1130/1135/1133 Toner,Printer Toners & Ribbons,Cartridge,5

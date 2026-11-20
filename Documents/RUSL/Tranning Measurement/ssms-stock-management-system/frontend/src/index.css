@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;600;700&family=Work+Sans:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --color-bg: #0d1117;
+  --color-surface: #161b22;
+  --color-surface-2: #1e2530;
+  --color-border: #30363d;
+  --color-primary: #1d6fef;
+  --color-primary-hover: #1a5ed4;
+  --color-amber: #f0a428;
+  --color-green: #2ea043;
+  --color-red: #da3633;
+  --color-cyan: #1f8faa;
+  --color-text: #c9d1d9;
+  --color-text-muted: #8b949e;
+  --font-sans: 'Work Sans', sans-serif;
+  --font-serif: 'Roboto Slab', serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #0d1117;
+  color: #c9d1d9;
+  font-family: 'Work Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #30363d;
+  border-radius: 2px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #8b949e;
+}
+
+.font-mono {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+#issue-voucher-print {
+  display: none;
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 18mm;
+  }
+
+  body {
+    background: #fff !important;
+    color: #111 !important;
+  }
+
+  body * {
+    visibility: hidden !important;
+  }
+
+  #issue-voucher-print,
+  #issue-voucher-print * {
+    visibility: visible !important;
+  }
+
+  #issue-voucher-print {
+    position: absolute;
+    inset: 0;
+    display: block !important;
+    width: 100%;
+    background: #fff;
+    color: #111;
+    font: 12px Arial, sans-serif;
+  }
+
+  .voucher-header {
+    padding-bottom: 14px;
+    margin-bottom: 20px;
+    text-align: center;
+    border-bottom: 2px solid #222;
+  }
+
+  .voucher-header h1 {
+    margin: 0 0 8px;
+    font-size: 20px;
+  }
+
+  .voucher-request-no {
+    font-size: 14px;
+    font-weight: 700;
+  }
+
+  .voucher-meta {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px 24px;
+    margin-bottom: 24px;
+  }
+
+  .voucher-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .voucher-table th,
+  .voucher-table td {
+    padding: 9px 8px;
+    border: 1px solid #777;
+    text-align: left;
+  }
+
+  .voucher-table th {
+    background: #eee;
+  }
+
+  .voucher-notes {
+    margin-top: 18px;
+  }
+
+  .voucher-signatures {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 48px;
+    margin-top: 90px;
+    page-break-inside: avoid;
+  }
+
+  .voucher-signature {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    text-align: center;
+  }
+
+  .voucher-signature-line {
+    height: 1px;
+    margin-bottom: 4px;
+    background: #222;
+  }
+
+  .voucher-signature span {
+    font-size: 10px;
+  }
+}
